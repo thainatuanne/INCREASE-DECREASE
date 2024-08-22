@@ -12,6 +12,6 @@
 <br>
 
  <h2>Index</h2>
- <img src ="img/image1.png" alt="contador page">
- <img src ="img/image2.png" alt="contador page">
+ <img src ="img/image1.png" alt="acessibilidade 1 page">
+ <img src ="img/image2.png" alt="acessibilidade 2 page">
  <br>
